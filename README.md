@@ -10,3 +10,5 @@ An opinionated preference file to be used with Morphe patched applications.
 - Click Save.
 - A popup to restart the app should appear. Click Restart. Or restart the app anyway.
 - Enjoy!
+
+_Last updated Apr 20, 2026_
